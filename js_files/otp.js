@@ -4,3 +4,4 @@ function movetoNext(current, nextFieldID) {
   document.getElementById(nextFieldID).focus();  
   }  
   } 
+  
