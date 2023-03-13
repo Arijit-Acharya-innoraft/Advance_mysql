@@ -3,7 +3,5 @@
 /vendor
 /images_used
 /uploads
-composer.json
-composer.lock
 db_conn.php
 /backend/sending_mail.php
