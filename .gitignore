@@ -1,0 +1,7 @@
+/ignore
+/prev
+/vendor
+/images_used
+/uploads
+db_conn.php
+/backend/sending_mail.php
